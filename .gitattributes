@@ -1,0 +1,12 @@
+topic_data_cluster.pkl filter=lfs diff=lfs merge=lfs -text
+cluster1.sav filter=lfs diff=lfs merge=lfs -text
+cluster.sav filter=lfs diff=lfs merge=lfs -text
+Pipfile.lock filter=lfs diff=lfs merge=lfs -text
+Preprocessed_questions_text_no_code.pkl filter=lfs diff=lfs merge=lfs -text
+Procfile filter=lfs diff=lfs merge=lfs -text
+templates filter=lfs diff=lfs merge=lfs -text
+app.py filter=lfs diff=lfs merge=lfs -text
+cluster2.sav filter=lfs diff=lfs merge=lfs -text
+glove_vectors filter=lfs diff=lfs merge=lfs -text
+Pipfile filter=lfs diff=lfs merge=lfs -text
+runtime.txt filter=lfs diff=lfs merge=lfs -text
